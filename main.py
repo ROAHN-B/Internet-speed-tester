@@ -1,3 +1,6 @@
+# Internet Speed Tester to display download, upload and ping of the internet connection 
+# Name- Rohan Belsare  Rolll no. 06 
+
 import speedtest
 import tkinter as tk
 from tkinter import messagebox
